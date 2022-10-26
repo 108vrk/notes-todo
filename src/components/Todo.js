@@ -1,5 +1,4 @@
 import React from "react";
-import { MdDeleteForever } from "react-icons/md";
 import { FcApproval } from "react-icons/fc";
 {
   /*this is our note card component
